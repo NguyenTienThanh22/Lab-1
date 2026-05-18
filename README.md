@@ -21,7 +21,7 @@ Chào mừng bạn đến với kho lưu trữ (repository) cho **Lab 01** thu�
 ## 📝 Thông tin dự án
 * **Môn học:** PRU213 - C# Programming & Unity
 * **Bài tập:** Lab 01
-* **Giảng viên hướng dẫn:** `[Nhập tên Giảng viên vào đây]`
+* **Giảng viên hướng dẫn:** `Mai Ngọc Lương`
 
 **Mục tiêu của Lab:**
 > *[Ghi chú ngắn gọn về các tính năng C# hoặc component Unity mà nhóm đã thực hành trong Lab này. Ví dụ: Làm quen với giao diện Unity, tạo script C# cơ bản để di chuyển nhân vật, v.v.]*
