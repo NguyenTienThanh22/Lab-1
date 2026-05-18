@@ -10,11 +10,11 @@ Chào mừng bạn đến với kho lưu trữ (repository) cho **Lab 01** thu�
 
 | STT | Họ và Tên | MSSV | Vai trò |
 | :---: | :--- | :---: | :--- |
-| 1 | **Nguyễn Tiến Thành** | `[Điền MSSV]` | Team Leader |
-| 2 | **Phạm Hiền Tâm** | `[Điền MSSV]` | Thành viên |
-| 3 | **Trần Quốc Trung Hiếu** | `[Điền MSSV]` | Thành viên |
-| 4 | **Phạm Việt Hưng** | `[Điền MSSV]` | Thành viên |
-| 5 | **Cao Đức Quang Anh** | `[Điền MSSV]` | Thành viên |
+| 1 | **Nguyễn Tiến Thành** | `HE186221` | Thành viên |
+| 2 | **Phạm Hiền Tâm** | `HE182476` | Thành viên |
+| 3 | **Trần Quốc Trung Hiếu** | `HE182395` |  Team Leader |
+| 4 | **Phạm Việt Hưng** | `HE161180` | Thành viên |
+| 5 | **Cao Đức Quang Anh** | `HE180227` | Thành viên |
 
 ---
 
